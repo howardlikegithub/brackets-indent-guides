@@ -1,0 +1,21 @@
+{
+    "name": "brackets-fontsize-sync",
+    "title": "Font Size Sync",
+    "version": "0.0.1",
+    "description": "Sync your font size across editor windows.",
+    "homepage": "https://github.com/bradgearon/brackets-fontsize-sync",
+    "author": "Brad Gearon bradgearon@gmail.com (https://github.com/bradgearon)",
+    "license": "MIT",
+    "categories":"editing",
+    "keywords": [
+        "font size",
+        "sync"
+    ],
+    "files": [
+        "main.js",
+        "README.md"
+    ],
+    "engines": {
+        "brackets": ">=0.35.0"
+    }
+}
